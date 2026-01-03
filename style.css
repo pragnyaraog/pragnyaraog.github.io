@@ -1,0 +1,13 @@
+.header{
+            background-color: orange;
+            color: white;
+        }
+        .footer{
+            background-color: silver;
+        }
+        .container{
+            margin: 0px;
+        }
+        *{
+            margin: 0px;
+        }
